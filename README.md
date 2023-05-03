@@ -41,4 +41,4 @@ The graphs helped to reveal several insights, including the following:
 - The graph shows that Most purchases occur for Customer who commute distances under 1 mile.
 - The graph shows The largest sales are in the 31-54 age range.
 
-[View Full Note](https://silly-burst-c06.notion.site/Product-Sales-Analysis-67c240fb08164239a7a7944f7956df86)
+[CLICK HERE  to view full note](https://silly-burst-c06.notion.site/Product-Sales-Analysis-67c240fb08164239a7a7944f7956df86)
